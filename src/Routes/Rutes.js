@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter, Switch, Route } from 'react-router-dom';
+import { BrowserRouter, Switch, Route, Redirect } from 'react-router-dom';
 import Footer from "../Components/Footer";
 import Header from "../Components/Header";
 import AboutMe from "../Pages/AboutMe";
@@ -9,7 +9,9 @@ export const Rutes = () => (
   <BrowserRouter>
     <Header />
     <Switch>
-      <Route exact path="/" component={Home}/>
+      <Route exact path="/" component={() => (
+        <Redirect to="/Home" />
+      )} />
       <Route exact path="/Home" component={Home}/>
       <Route exact path="/About_Me" component={AboutMe} />
     </Switch>
