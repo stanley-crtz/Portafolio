@@ -9,11 +9,11 @@ export const Rutes = () => (
   <BrowserRouter>
     <Header />
     <Switch>
-      <Route exact path="/" component={() => (
-        <Redirect to="/Home" />
+      <Route exact path="/Portafolio/" component={() => (
+        <Redirect to="/Portafolio/Home" />
       )} />
-      <Route exact path="/Home" component={Home}/>
-      <Route exact path="/About_Me" component={AboutMe} />
+      <Route exact path="/Portafolio/Home" component={Home}/>
+      <Route exact path="/Portafolio/About_Me" component={AboutMe} />
     </Switch>
     <Footer />
   </BrowserRouter>

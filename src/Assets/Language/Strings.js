@@ -6,19 +6,19 @@ export const Strings = {
         menu: [
             {
                 title: 'Home',
-                rute: '/Home'
+                rute: '/Portafolio/Home'
             },
             {
                 title: 'About Me',
-                rute: '/About_Me'
+                rute: '/Portafolio/About_Me'
             },
             {
                 title: 'Success Stories',
-                rute: '/Success_Stories'
+                rute: '/Portafolio/Success_Stories'
             },
             {
                 title: 'Interests',
-                rute: '/Interests'
+                rute: '/Portafolio/Interests'
             },
             {
                 language: 'Language'
@@ -90,19 +90,19 @@ export const Strings = {
         menu: [
             {
                 title: 'Inicio',
-                rute: '/Home'
+                rute: '/Portafolio/Home'
             },
             {
                 title: 'Sobre Mi',
-                rute: '/About_Me'
+                rute: '/Portafolio/About_Me'
             },
             {
                 title: 'Casos de exito',
-                rute: '/Success_Stories'
+                rute: '/Portafolio/Success_Stories'
             },
             {
                 title: 'Intereses',
-                rute: '/Interests'
+                rute: '/Portafolio/Interests'
             },
             {
                 language: 'Lenguaje'
