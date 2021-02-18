@@ -1,26 +1,20 @@
 {
   "files": {
     "main.css": "/stanley-crtz/Portafolio/static/css/main.52fb3460.chunk.css",
-    "main.js": "/stanley-crtz/Portafolio/static/js/main.543493ae.chunk.js",
-    "main.js.map": "/stanley-crtz/Portafolio/static/js/main.543493ae.chunk.js.map",
+    "main.js": "/stanley-crtz/Portafolio/static/js/main.bf5819ea.chunk.js",
+    "main.js.map": "/stanley-crtz/Portafolio/static/js/main.bf5819ea.chunk.js.map",
     "runtime-main.js": "/stanley-crtz/Portafolio/static/js/runtime-main.09923d41.js",
     "runtime-main.js.map": "/stanley-crtz/Portafolio/static/js/runtime-main.09923d41.js.map",
     "static/js/2.66c42008.chunk.js": "/stanley-crtz/Portafolio/static/js/2.66c42008.chunk.js",
     "static/js/2.66c42008.chunk.js.map": "/stanley-crtz/Portafolio/static/js/2.66c42008.chunk.js.map",
     "index.html": "/stanley-crtz/Portafolio/index.html",
     "static/css/main.52fb3460.chunk.css.map": "/stanley-crtz/Portafolio/static/css/main.52fb3460.chunk.css.map",
-    "static/js/2.66c42008.chunk.js.LICENSE.txt": "/stanley-crtz/Portafolio/static/js/2.66c42008.chunk.js.LICENSE.txt",
-    "static/media/Angular 8.5ff16052.png": "/stanley-crtz/Portafolio/static/media/Angular 8.5ff16052.png",
-    "static/media/Golang.38d8091c.png": "/stanley-crtz/Portafolio/static/media/Golang.38d8091c.png",
-    "static/media/IAGaming.dc34164a.jpg": "/stanley-crtz/Portafolio/static/media/IAGaming.dc34164a.jpg",
-    "static/media/Logo.a9a4bc6e.png": "/stanley-crtz/Portafolio/static/media/Logo.a9a4bc6e.png",
-    "static/media/PerfilImage.ae883fe3.jpeg": "/stanley-crtz/Portafolio/static/media/PerfilImage.ae883fe3.jpeg",
-    "static/media/Python.162917fe.jpg": "/stanley-crtz/Portafolio/static/media/Python.162917fe.jpg"
+    "static/js/2.66c42008.chunk.js.LICENSE.txt": "/stanley-crtz/Portafolio/static/js/2.66c42008.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.09923d41.js",
     "static/js/2.66c42008.chunk.js",
     "static/css/main.52fb3460.chunk.css",
-    "static/js/main.543493ae.chunk.js"
+    "static/js/main.bf5819ea.chunk.js"
   ]
 }
