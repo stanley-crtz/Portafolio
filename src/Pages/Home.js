@@ -1,5 +1,4 @@
 import React from 'react';
-import PerfilImage from '../Assets/Images/PerfilImage.jpeg';
 import { connect } from 'react-redux';
 import { Strings } from '../Assets/Language/Strings';
 
@@ -9,7 +8,7 @@ const Home = ({ language }) => {
 
     return (
         <div className="space-between animate__animated animate__fadeInUpBig">
-            <img src={PerfilImage} alt="Johansson Stanley Rodriguez Cortez" />
+            <img src="https://res.cloudinary.com/dxmkfwigq/image/upload/v1613607464/Portafolio/PerfilImage_p4u02n.jpg" alt="Johansson Stanley Rodriguez Cortez" />
             <div className="container">
                 <h1>{data.title}</h1>
                 <br />

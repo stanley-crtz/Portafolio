@@ -2,7 +2,6 @@ import React, { useEffect, useState } from "react";
 import { Menu } from "./Menu";
 
 import MenuIcon from '@material-ui/icons/Menu';
-import Logo from '../Assets/Images/Logo.png';
 
 import { connect }from 'react-redux';
 
@@ -45,7 +44,7 @@ const Header = ({language}) => {
 
             <div className="header-icon">
 
-                <img src={Logo} alt="Logo" />
+                <img src="https://res.cloudinary.com/dxmkfwigq/image/upload/v1613607463/Portafolio/Logo_xq9z0h.png" alt="Logo" />
 
             </div>
 

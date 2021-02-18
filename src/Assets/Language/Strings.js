@@ -1,8 +1,4 @@
 import React from 'react';
-import Angular from '../Images/Diplomas/Angular 8.png';
-import Golang from '../Images/Diplomas/Golang.png';
-import IAGaming from '../Images/Diplomas/IAGaming.jpg';
-import Python from '../Images/Diplomas/Python.jpg';
 
 export const Strings = {
     en: {
@@ -60,25 +56,25 @@ export const Strings = {
                     title: 'Golang/Go',
                     urlImage: 'https://miro.medium.com/max/3152/0*I7qZbim6dIE2Hoss.png',
                     description: 'Golang or Go is a relatively new language since it was created in September 2007 and developed by Google, little by little there was a lot of talk about it, which prompted me to learn this wonderful Back-End oriented language since it has the ease of program interpreted and dynamic languages; and the efficiency and security of a statically compiled and static typing.',
-                    urlDiploma: Golang
+                    urlDiploma: "https://res.cloudinary.com/dxmkfwigq/image/upload/v1613607507/Portafolio/Golang_zaughs.png"
                 },
                 {
                     title: 'Angular JS',
                     urlImage: 'https://licencias.info/wp-content/uploads/2019/07/angularjs.jpg',
                     description: "It was a course taught by Victor Robles at Udemy, held in 2020, which consisted of how to create an Angular project, create components, and separate component views. Later I would continue with another course in which it is called Master in JavaScript Frameworks: Learn Angular, React, Vue. where I learned more about how Angular works, which was also done in 2020 (I didn't finish the whole course in 2020, just the Angular js and React js part).",
-                    urlDiploma: Angular
+                    urlDiploma: "https://res.cloudinary.com/dxmkfwigq/image/upload/v1613607503/Portafolio/Angular_8_jojt2v.png"
                 },
                 {
                     title: 'Python',
                     urlImage: 'https://mundofreelance.online/wp-content/uploads/2021/01/freelance-python.png',
                     description: 'It was a course carried out by the Secretary of Innovation of the Presidency and Asociacion Conexion of El Salvador where the main topic was Introduction to Python, held in 2020, which lasted 36 hours through Google ClassRoom.',
-                    urlDiploma: Python
+                    urlDiploma: "https://res.cloudinary.com/dxmkfwigq/image/upload/v1613607485/Portafolio/Python_ehh7gn.jpg"
                 },
                 {
                     title: 'IA GAMING',
                     urlImage: 'https://scontent.fsal2-1.fna.fbcdn.net/v/t1.0-9/119082995_365270581526231_7556729928827498904_n.jpg?_nc_cat=110&ccb=3&_nc_sid=b386c4&_nc_ohc=_vsSQy2VTPYAX94U_-q&_nc_ht=scontent.fsal2-1.fna&oh=5b342ca1b602dbb0dbd67cd22aec6221&oe=605057DC',
                     description: 'It was the first IA Gaming event held by the Microsoft Learn Student Ambassador members in 2020, where it consisted of 3 weeks of introduction on python 3 and artificial intelligence, where after the introduction the main event was a contest in which all participants would create an AI to make pairs and the one with the most points would win',
-                    urlDiploma: IAGaming
+                    urlDiploma: "https://res.cloudinary.com/dxmkfwigq/image/upload/v1613607504/Portafolio/IAGaming_f0aenu.jpg"
                 }
             ],
             skill: 'Skills'
@@ -144,25 +140,25 @@ export const Strings = {
                     title: 'Golang/Go',
                     urlImage: 'https://miro.medium.com/max/3152/0*I7qZbim6dIE2Hoss.png',
                     description: 'Golang o Go es un lenguaje relativamente nuevo ya que fue creado en septiembre de 2007 y desarrollado por Google, poco a poco se habló mucho al respecto, lo que me impulsó a aprender este maravilloso lenguaje orientado al Back-End ya que tiene la facilidad de programa interpretado y lenguajes dinámicos; y la eficiencia y seguridad de un lenguaje compilado y de tipado estatico.',
-                    urlDiploma: Golang
+                    urlDiploma: "https://res.cloudinary.com/dxmkfwigq/image/upload/v1613607507/Portafolio/Golang_zaughs.png"
                 },
                 {
                     title: 'Angular JS',
                     urlImage: 'https://licencias.info/wp-content/uploads/2019/07/angularjs.jpg',
                     description: 'Fue un curso impartido por Victor Robles en Udemy, realizado en 2020, que consistió en cómo crear un proyecto Angular, crear componentes y separar vistas de componentes. Posteriormente continuaría con otro curso en el que se llama Master en Frameworks JavaScript: Aprende Angular, React, Vue. Donde aprendí más sobre cómo funciona Angular, que también se hizo en 2020 (no terminé todo el curso en 2020, solo la parte de Angular js y React js).',
-                    urlDiploma: Angular
+                    urlDiploma: "https://res.cloudinary.com/dxmkfwigq/image/upload/v1613607503/Portafolio/Angular_8_jojt2v.png"
                 },
                 {
                     title: 'Python',
                     urlImage: 'https://mundofreelance.online/wp-content/uploads/2021/01/freelance-python.png',
                     description: 'Fue un curso realizado por la Secretaria de Innovacion de la Presidencia y Asociacion Conexion de El Salvador en donde el tema principal era el de Introducción a Python realizado en el 2020, cuya duracion fue de 36 horas a travez de Google ClassRoom.',
-                    urlDiploma: Python
+                    urlDiploma: "https://res.cloudinary.com/dxmkfwigq/image/upload/v1613607485/Portafolio/Python_ehh7gn.jpg"
                 },
                 {
                     title: 'IA GAMING',
                     urlImage: 'https://scontent.fsal2-1.fna.fbcdn.net/v/t1.0-9/119082995_365270581526231_7556729928827498904_n.jpg?_nc_cat=110&ccb=3&_nc_sid=b386c4&_nc_ohc=_vsSQy2VTPYAX94U_-q&_nc_ht=scontent.fsal2-1.fna&oh=5b342ca1b602dbb0dbd67cd22aec6221&oe=605057DC',
                     description: 'Fue el primer evento de IA Gaming realizado por los miembros de Microsoft Learn Student Ambassador en 2020, donde consistió en 3 semanas de introducción sobre python 3 e inteligencia artificial, donde después de la introducción el evento principal fue un concurso en el que todos los participantes crearían un IA para hacer parejas y el que tenga más puntos ganaría',
-                    urlDiploma: IAGaming
+                    urlDiploma: "https://res.cloudinary.com/dxmkfwigq/image/upload/v1613607504/Portafolio/IAGaming_f0aenu.jpg"
                 }
             ],
             skill: 'Habilidades'
@@ -295,4 +291,4 @@ export const Strings = {
             ]
         }
     ]
-}
+} 
